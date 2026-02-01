@@ -1,0 +1,9 @@
+baseurl: ""
+url: "https://zacharygoebel.com"
+title: "Zach Goebel"
+description: "I work across food, health, music, and technology."
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+collections:
+  posts:
+    output: true
